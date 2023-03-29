@@ -16,8 +16,8 @@
 
 1. Main Super User Page
    - Add Admin
-   - pdate Admin
-   - elete Admin
+   - Update Admin
+   - Delete Admin
    - All already present Admins will be visible in a table.*
   
 2. Login As Admin
