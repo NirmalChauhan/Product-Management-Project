@@ -1,13 +1,13 @@
 # Product-Management-Project
-Java based Product Management Maven Project. 
-This project was an assignment.
-Technologies used: 
+# Java based Maven Project This project was an assignment.
 
-1.Java
-2.Servlet
-3.JSP
-4.JDBC API
-5.HTML
+Things used: 
+
+###1.Java
+###2.Servlet
+###3.JSP
+###4.JDBC API
+###5.HTML
 
 IDE:
 Eclipse EE
