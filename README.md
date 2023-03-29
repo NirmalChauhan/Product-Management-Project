@@ -1,22 +1,15 @@
 # Product-Management-Project
-# Java based Maven Project This project was an assignment.
+## Java based Maven Project This project was an assignment.
 
 Things used: 
 
-###1.Java
-###2.Servlet
-###3.JSP
-###4.JDBC API
-###5.HTML
+** Java, Servlet, JSP, JDBC, API, HTML 
 
-IDE:
-Eclipse EE
+IDE: Eclipse EE
 
-Server:
-Apache Tomcat 9.0
+Server: Apache Tomcat 9.0
 
-Database:
-MySql
+Database: MySql **
 
 The Web Application consists of 3 tables Named as Admin, Dealer and Product.
 It can perform several operations: 
